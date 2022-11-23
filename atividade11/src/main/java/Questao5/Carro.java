@@ -16,4 +16,12 @@ public class Carro {
     {
         return modelo;
     }
+    public String[] getCor()
+    {
+        return cor;
+    }
+    public String getPlaca()
+    {
+        return placa;
+    }
 }
